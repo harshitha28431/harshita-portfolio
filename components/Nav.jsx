@@ -36,7 +36,7 @@ export default function Nav() {
       <div className="nav-container">
         <a href="#" className="nav-logo">
           <Code2 size={28} className="logo-icon" />
-          <span className="logo-text">Harshitha<span className="text-accent">.B</span></span>
+          <span className="logo-text">Harshitha<span className="text-accent">.BH</span></span>
         </a>
 
         {/* Desktop Links */}
